@@ -1,4 +1,3 @@
-
 const playButton = document.getElementById("PlayButton");
 const winnertext = document.getElementById("WinnerText");
 const historyText = document.getElementById("historyText");
